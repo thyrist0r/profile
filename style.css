@@ -34,7 +34,7 @@ i:hover {
 }
 
 .card-white {
-  background-color: white;
+  background-color: #f5f5f5;
   width: 700px;
   margin: 20px auto;
   text-align: center;
@@ -44,10 +44,10 @@ i:hover {
 }
 
 .btn-red {
-  background-color: #eaefd3;
+  background-color: #7d8491;
   padding: 10px 15px;
-  color: #342e37;
-  border-radius: 5px;
+  color: #eee1b3;
+  border-radius: 10px;
   transition: all 1s ease-in-out;
 }
 
